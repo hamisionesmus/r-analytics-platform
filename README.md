@@ -1387,7 +1387,3 @@ Licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for d
 - **RStudio**: For the comprehensive development environment
 - **CRAN**: For the vast package ecosystem
 - **R Community**: For the collaborative and innovative spirit
-
----
-
-**Built with ❤️ in R** - Advanced analytics that scales! 📊
